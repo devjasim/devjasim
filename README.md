@@ -1,8 +1,9 @@
 ![Front End Software Engineer](https://github.com/devjasim/devjasim/blob/main/banner-git.png)
 
-### Hi there 👋, Jasim Uddin
+### Hi there 👋, this is Jasim Uddin
 #### Front End Software Engineer
-I'm Jasim from Bangladesh, and I'm a Front End Developer with 2+ years of professional working experience. I really enjoy learning new technologies and I love to build user interfaces using React, Redux, Next.js, etc that's up the user experience to the next level. I'm learning new stuff every day to hook up my carrier to the top level.
+
+I've 3+ years of professional working experience. I really enjoy learning new technologies and I love to build user interfaces using React, Redux, Next.js, etc that's up the user experience to the next level. I'm learning new stuff every day to hook up my carrier to the top level.
 
 ## Skills and Experience
 * React
