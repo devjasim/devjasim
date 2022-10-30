@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjasim" alt="devjasim" /></a> </p>
 
-- 🔭 I’m currently working on [SEO Audit Software](https://app.seoaudit.software)
+- 🔭 I’m currently working with [TulipTech LTD](https://app.seoaudit.software) as a Software Engineer
 
-- 🌱 I’m currently learning **AWS, Jest, Docker, Express, Postgress**
+- 🌱 I’m currently learning **AWS Amplify, Docker, Nest, Postgress**
 
-- 👨‍💻 All of my projects are available at [https://jasim-uddin.vercel.app/](https://jasim-uddin.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jasim.vercel.app/](https://jasim.vercel.app/)
 
 - 💬 Ask me about **React, Redux**
 
