@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1v600Jx6agVCT8FJZS7xffLr9ljXTaC0I1GxCafka5Bc/edit?usp=sharing](https://docs.google.com/document/d/1v600Jx6agVCT8FJZS7xffLr9ljXTaC0I1GxCafka5Bc/edit?usp=sharing)
 
-- ⚡ Fun fact **I"m funny, cool and calm person.**
+- ⚡ Fun fact **I"m foodie, and only love to travel with bike and train**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
