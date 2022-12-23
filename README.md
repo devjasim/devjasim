@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jasim.vercel.app/](https://jasim.vercel.app/)
 
-- 💬 Ask me about **React, Redux**
-
 - 📫 How to reach me **jasimfbd@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1v600Jx6agVCT8FJZS7xffLr9ljXTaC0I1GxCafka5Bc/edit?usp=sharing](https://docs.google.com/document/d/1v600Jx6agVCT8FJZS7xffLr9ljXTaC0I1GxCafka5Bc/edit?usp=sharing)
