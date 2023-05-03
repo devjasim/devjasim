@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Welcome, and thanks for visiting.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm glad you landed on profile</h1>
+<h3 align="center">I'm a passionate Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjasim&label=Profile%20views&color=0e75b6&style=flat" alt="devjasim" /> </p>
 
