@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjasim" alt="devjasim" /></a> </p>
 
-- 🔭 I’m currently working with [TulipTech LTD](https://app.seoaudit.software) as a Software Engineer
+- 🔭 I’m currently working with [TulipTech LTD](https://tulip-tech.com) as a Software Engineer
 
 - 🌱 I’m currently learning **AWS Amplify, Docker, Nest, Postgress**
 
