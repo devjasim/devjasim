@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with [TulipTech LTD](https://tulip-tech.com) as a Software Engineer
 
-- 🌱 I’m currently learning **AWS Amplify, Docker, Nest, Postgress**
+- 🌱 I’m currently learning **AWS Amplify, Docker, Nest, and Postgress**
 
 - 👨‍💻 All of my projects are available at [https://jasim.vercel.app/](https://jasim.vercel.app/)
 
