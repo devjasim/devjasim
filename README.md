@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjasim&label=Profile%20views&color=0e75b6&style=flat" alt="devjasim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjasim" alt="devjasim" /></a> </p>
-
 - 🔭 I’m currently working with [TulipTech LTD](https://tulip-tech.com) as a Software Engineer
 
 - 🌱 I’m currently learning **AWS Amplify, Docker, Nest, and Postgress**
