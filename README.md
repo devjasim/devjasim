@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jasimfbd@gmail.com**
 
-- 📄 Know about my experiences to have a look at my [resume](https://docs.google.com/document/d/1I6YWttVIJWnt3dwKVy9tbPd80m2pI9j4GUUKJD0CqBc/edit?usp=sharing)
+- 📄 Know about my experiences to have a look at my [resume](https://docs.google.com/document/d/1ZENrcgtfmx5tarZ8fZ-dB17oWfrBtAoEfx04WlV6DdM/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
