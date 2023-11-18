@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **AWS Amplify, Docker, Nest, and Postgress**
 
-- 👨‍💻 All of my projects are available at [https://jasim.vercel.app/](https://jasim.vercel.app/)
-
 - 📫 How to reach me **jasimfbd@gmail.com**
 
 - 📄 Know about my experiences to have a look at my [resume](https://docs.google.com/document/d/1I6YWttVIJWnt3dwKVy9tbPd80m2pI9j4GUUKJD0CqBc/edit?usp=sharing)
