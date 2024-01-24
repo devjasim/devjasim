@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm glad you landed on my profile</h1>
-<h3 align="center">I'm a passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">I'm a passionate Frontend Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjasim&label=Profile%20views&color=0e75b6&style=flat" alt="devjasim" /> </p>
 
-- 🔭 I’m currently working with [TulipTech LTD](https://tulip-tech.com) as a Software Engineer
+- 🔭 I’m currently working with [TulipTech LTD](https://tulip-tech.com) as a Senior Frontend Engineer
 
-- 🌱 I’m currently learning **AWS Amplify, Docker, Nest, and Postgress**
+- 🌱 Currently learning **AWS Amplify, Docker, Nest, and Postgress**
 
 - 📫 How to reach me **jasimfbd@gmail.com**
 
