@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm glad you landed on my profile</h1>
 <h3 align="center">I'm a passionate Frontend Engineer from Bangladesh</h3>
 
-[![An image of @rajesh604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajesh604)](https://holopin.io/@rajesh604)
-
 # 💫 About Me:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjasim&label=Profile%20views&color=0e75b6&style=flat" alt="devjasim" /> </p>
