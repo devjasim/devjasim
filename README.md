@@ -67,15 +67,15 @@
 <!-- tools badge end -->
 
 
-# 📊 GitHub Stats:
 <div align="center">
+  # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=devjasim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=devjasim&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjasim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-## 🏆 GitHub Trophies
 <div align="center">
+  ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=devjasim&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
