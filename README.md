@@ -1,20 +1,55 @@
 <h1 align="center">Hi 👋, I'm glad you landed on my profile</h1>
 <h3 align="center">I'm a passionate Frontend Engineer from Bangladesh</h3>
 
-# 💫 About Me:
+<div align="center"> 
+    <h1 color="0EBBB4">Feel free to connect with me</h1>
+</div>
+<!-- feel free to contact me text end -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devjasim&label=Profile%20views&color=0e75b6&style=flat" alt="devjasim" /> </p>
-
-- 🔭 I’m currently working with [TulipTech LTD](https://tulip-tech.com) as a Senior Frontend Engineer
-
-- 🌱 Currently learning **AWS Amplify, Docker, Nest, and Postgress**
-
-- 📫 How to reach me **jasimfbd@gmail.com**
-
-- 📄 To learn more about my professional experiences you can visit my [resume](https://docs.google.com/document/d/1ZENrcgtfmx5tarZ8fZ-dB17oWfrBtAoEfx04WlV6DdM/edit?usp=sharing)
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjasim/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dev_jasim) [![StackOverflow](https://img.shields.io/badge/StackOverflow-%230A6474.svg?logo=StackOverflow&logoColor=white)](https://www.stackoverflow.com/users/11856004/jasim-uddin?tab=profile) 
+<!-- social media links start -->
+<table align="center">
+    <thead align="center">
+        <tr>
+            <th>
+                <a href="https://www.linkedin.com/in/devjasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/devjasim">
+                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.github.com/devjasim" target="_blank" rel="noopener noreferrer" title="github.com/devjasim">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://stackoverflow.com/users/20348607/devjasim" target="_blank" rel="noopener noreferrer" title="stackoverflow.com/users/20348607/devjasim">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://jasim.vercel.app" target="_blank" rel="noopener noreferrer" title="jasim.vercel.app">
+                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="mailto:jasimfbd@gmail.com" target="_blank" rel="noopener noreferrer" title="jasimfbd@gmail.com">
+                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.facebook.com/devjasim/" target="_blank" rel="noopener noreferrer" title="facebook.com/devjasim">
+                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://twitter.com/dev_Jasim" target="_blank" rel="noopener noreferrer" title="twitter.com/dev_jasim">
+                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/0EBBB4" width="35px">
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
+<!-- social media links end -->
+<!-- connect with me end -->
 
 
 
@@ -138,65 +173,6 @@
     <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=devjasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
 <!-- github trophy end -->
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!-- feel free to contact me text start -->
-<div align="center"> 
-    <img loading="lazy" width="21" src="./media/icons/link.png" alt="postbox svg" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
-</div>
-<!-- feel free to contact me text end -->
-
-<br/>
-
-<!-- social media links start -->
-<table align="center">
-    <thead align="center">
-        <tr>
-            <th>
-                <a href="https://www.linkedin.com/in/devjasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/devjasim">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.github.com/devjasim" target="_blank" rel="noopener noreferrer" title="github.com/devjasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://stackoverflow.com/users/20348607/devjasim" target="_blank" rel="noopener noreferrer" title="stackoverflow.com/users/20348607/devjasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://jasim.vercel.app" target="_blank" rel="noopener noreferrer" title="jasim.vercel.app">
-                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="mailto:jasimfbd@gmail.com" target="_blank" rel="noopener noreferrer" title="jasimfbd@gmail.com">
-                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.facebook.com/devjasim/" target="_blank" rel="noopener noreferrer" title="facebook.com/devjasim">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://twitter.com/dev_Jasim" target="_blank" rel="noopener noreferrer" title="twitter.com/dev_jasim">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/0EBBB4" width="35px">
-                </a>
-            </th>
-        </tr>
-    </thead>
-</table>
-<!-- social media links end -->
-<!-- connect with me end -->
 
 <br/>
 <br/>
