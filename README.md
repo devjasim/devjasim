@@ -53,23 +53,46 @@
 
 <br/>
 
+<!-- tools badge start -->
+<div align="center">
+  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=555555&color=0EBBB4">
+  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555&color=0EBBB4">
+  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=555555&color=0EBBB4">
+  <img loading="lazy" style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=555555&color=0EBBB4">
+  <img loading="lazy" style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&labelColor=555555&color=0EBBB4">
+  <img loading="lazy" style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=555555&color=0EBBB4">
+  <img loading="lazy" style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555&color=0EBBB4">
+  <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=555555&color=0EBBB4">
+</div>
+<!-- tools badge end -->
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devjasim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devjasim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjasim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=devjasim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=devjasim&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjasim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devjasim&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  ![](https://github-profile-trophy.vercel.app/?username=devjasim&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devjasim&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  ![](https://github-contributor-stats.vercel.app/api?username=devjasim&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<div align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devjasim&icon=0&color=4)](https://visitcount.itsvg.in)
