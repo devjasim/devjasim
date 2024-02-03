@@ -1,61 +1,9 @@
 <h1 underline="0" align="center">Hi 👋, I'm glad you landed on my profile</h1>
 <h3 align="center">I'm a passionate Frontend Engineer from Bangladesh</h3>
 
-<div align="left"> 
-    <h2 style="color:#0EBBB4; text-decoration: none;">Feel free to connect with me</h2>
-</div>
-<!-- feel free to contact me text end -->
-
-<!-- social media links start -->
-<table align="center">
-    <thead align="center">
-        <tr>
-            <th>
-                <a href="https://www.linkedin.com/in/devjasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/devjasim">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.github.com/devjasim" target="_blank" rel="noopener noreferrer" title="github.com/devjasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://stackoverflow.com/users/20348607/devjasim" target="_blank" rel="noopener noreferrer" title="stackoverflow.com/users/20348607/devjasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://jasim.vercel.app" target="_blank" rel="noopener noreferrer" title="jasim.vercel.app">
-                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="mailto:jasimfbd@gmail.com" target="_blank" rel="noopener noreferrer" title="jasimfbd@gmail.com">
-                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.facebook.com/devjasim/" target="_blank" rel="noopener noreferrer" title="facebook.com/devjasim">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/0EBBB4" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://twitter.com/dev_Jasim" target="_blank" rel="noopener noreferrer" title="twitter.com/dev_jasim">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/0EBBB4" width="35px">
-                </a>
-            </th>
-        </tr>
-    </thead>
-</table>
-<!-- social media links end -->
-<!-- connect with me end -->
-
 </br>
 </br>
 </br>
-</br>
-
 
 
 
@@ -137,6 +85,62 @@
 <br/>
 <br/>
 <br/>
+
+<div align="left"> 
+    <h2 style="color:#0EBBB4; text-decoration: none;">Feel free to connect with me</h2>
+</div>
+<!-- feel free to contact me text end -->
+
+<!-- social media links start -->
+<table align="center">
+    <thead align="center">
+        <tr>
+            <th>
+                <a href="https://www.linkedin.com/in/devjasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/devjasim">
+                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.github.com/devjasim" target="_blank" rel="noopener noreferrer" title="github.com/devjasim">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://stackoverflow.com/users/20348607/devjasim" target="_blank" rel="noopener noreferrer" title="stackoverflow.com/users/20348607/devjasim">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://jasim.vercel.app" target="_blank" rel="noopener noreferrer" title="jasim.vercel.app">
+                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="mailto:jasimfbd@gmail.com" target="_blank" rel="noopener noreferrer" title="jasimfbd@gmail.com">
+                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.facebook.com/devjasim/" target="_blank" rel="noopener noreferrer" title="facebook.com/devjasim">
+                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://twitter.com/dev_Jasim" target="_blank" rel="noopener noreferrer" title="twitter.com/dev_jasim">
+                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/0EBBB4" width="35px">
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
+<!-- social media links end -->
+<!-- connect with me end -->
+
+</br>
+</br>
+</br>
+</br>
+
 
 <!-- my github stats text start -->
 <div align="center"> 
