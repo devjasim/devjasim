@@ -58,13 +58,11 @@
 
 <!-- introduction heading start -->
 <div align="center">
-    <!-- weather icon start -->
-    <img loading="lazy" align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
     <br/>
     <!-- weather icon end -->
     <!-- about me start -->
     <div align="left">
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FEB500&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am jasim uddin svg" />
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=21&duration=1&pause=1&color=0EBBB4&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am jasim uddin svg" />
     </div>
     <!-- about me end -->
 </div>
@@ -87,7 +85,7 @@
 <br/>
 
 <div align="left"> 
-    <h2 style="color:#0EBBB4; text-decoration: none;">Feel free to connect with me</h2>
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=21&duration=1&pause=1&color=0EBBB4&center=true&vCenter=true&repeat=false&width=350&height=21&lines=FEEL+FREE+TO+CONNECT+WITH+ME" alt="i am jasim uddin svg" />
 </div>
 <!-- feel free to contact me text end -->
 
