@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm glad you landed on my profile</h1>
+<h1 underline="0" align="center">Hi 👋, I'm glad you landed on my profile</h1>
 <h3 align="center">I'm a passionate Frontend Engineer from Bangladesh</h3>
 
 <div align="center"> 
