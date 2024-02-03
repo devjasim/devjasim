@@ -16,8 +16,37 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjasim/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dev_jasim) [![StackOverflow](https://img.shields.io/badge/StackOverflow-%230A6474.svg?logo=StackOverflow&logoColor=white)](https://www.stackoverflow.com/users/11856004/jasim-uddin?tab=profile) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%230A6474.svg?logo=redux&logoColor=white) ![Recoil](https://img.shields.io/badge/recoil-%23000.svg?style=for-the-badge&logo=recoil&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Material UI](https://img.shields.io/badge/materialUi-%23F24E1E.svg?style=for-the-badge&logo=materialUi&logoColor=white) ![Ant Design](https://img.shields.io/badge/antdesign-%23646CFF.svg?style=for-the-badge&logo=antdesign&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SCSS](https://img.shields.io/badge/scss-005571.svg?style=for-the-badge&logo=scss&logoColor=white&color=%23005571) ![CSS](https://img.shields.io/badge/css-%231563FF.svg?style=for-the-badge&logo=css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<!-- about repository badges start -->
+<div align="center">
+  <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="wakatime badge" style="margin-right: 6px;" />
+  <img src="https://img.shields.io/github/followers/devjasim?logo=github&style=for-the-badge&color=FEB500" alt="follow badge" style="margin-right: 6px;" />
+  <!-- Uncomment below to use the guest book badge
+  <a href="https://github.com/devjasim/devjasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook" target="_blank" rel="noopener noreferrer" style="margin-right: 6px">
+    <img src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=FEB500" alt="Guest Book" />
+  </a>
+  -->
+  <img src="https://img.shields.io/badge/%F0%9F%91%8D-Thanks%20for%20visiting-FEB500.svg?style=for-the-badge&logoColor=ffffff" alt="thanks badge" style="margin-right: 6px;" />
+</div>
+<!-- about repository badges end -->
+
+<br/>
+
+<!-- skills icons start -->
+<div align="center">
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/FEB500" alt="typescript icon"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/FEB500" alt="javascript icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/FEB500" alt="react icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FEB500" alt="nodejs icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/FEB500" alt="express icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/FEB500" alt="mongodb icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/FEB500" alt="sass icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/FEB500" alt="tailwindcss icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/FEB500" alt="bootstrap icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/FEB500" alt="html5 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/FEB500" alt="css3 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/FEB500" alt="markdown icon" />
+</div>
+<!-- skills icons end -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devjasim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
