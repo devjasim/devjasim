@@ -90,7 +90,7 @@
 <!-- feel free to contact me text end -->
 
 <!-- social media links start -->
-<table align="center">
+<table align="left">
     <thead align="center">
         <tr>
             <th>
