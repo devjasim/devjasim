@@ -1,8 +1,8 @@
 <h1 underline="0" align="center">Hi 👋, I'm glad you landed on my profile</h1>
 <h3 align="center">I'm a passionate Frontend Engineer from Bangladesh</h3>
 
-<div align="center"> 
-    <h2 color="#0EBBB4">Feel free to connect with me</h2>
+<div align="left"> 
+    <h2 style="color:#0EBBB4; text-decoration: none;">Feel free to connect with me</h2>
 </div>
 <!-- feel free to contact me text end -->
 
