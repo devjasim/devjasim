@@ -142,8 +142,7 @@
 
 <!-- my github stats text start -->
 <div align="center"> 
-    <img loading="lazy" width="21" align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
-    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FEB500&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=0EBBB4&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <!-- my github stats text end -->
 
