@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Frontend Engineer from Bangladesh</h3>
 
 <div align="center"> 
-    <h1 color="0EBBB4">Feel free to connect with me</h1>
+    <h2 color="0EBBB4">Feel free to connect with me</h2>
 </div>
 <!-- feel free to contact me text end -->
 
