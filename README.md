@@ -3,9 +3,6 @@
 
 </br>
 </br>
-</br>
-
-
 
 <!-- about repository badges start -->
 <div align="center">
@@ -21,6 +18,7 @@
 <!-- about repository badges end -->
 
 <br/>
+</br>
 
 <!-- skills icons start -->
 <div align="center">
@@ -54,7 +52,9 @@
 </div>
 <!-- tools badge end -->
 
-
+</br>
+</br>
+</br>
 
 <!-- introduction heading start -->
 <div align="center">
