@@ -67,35 +67,140 @@
 <!-- tools badge end -->
 
 
+
+<!-- introduction heading start -->
 <div align="center">
-  # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=devjasim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=devjasim&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjasim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    <!-- weather icon start -->
+    <img loading="lazy" align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
+    <br/>
+    <!-- weather icon end -->
+    <!-- about me start -->
+    <div align="left">
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FEB500&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am jasim uddin svg" />
+    </div>
+    <!-- about me end -->
+</div>
+<!-- introduction heading end -->
+
+<br/>
+
+<!-- my summary start -->
+<p> 
+    I'm Jasim Uddin, a Passionate software engineer focused on Frontend Development. I focus on building accessible, inclusive digital experiences using the MERN Stack.
+</p>
+
+<p>
+    <a href="#" target="_blank" rel="noopener noreferrer">My expertise</a> lies in delivering complex projects, leveraging technology for business transformation, and creating <a href="#" target="_blank" rel="noopener noreferrer">innovative applications</a>. I am dedicated to bridging research and engineering to produce impactful digital solutions.
+</p>
+<!-- my summary end -->
+
+<br/>
+<br/>
+<br/>
+
+<!-- my github stats text start -->
+<div align="center"> 
+    <img loading="lazy" width="21" align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FEB500&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+</div>
+<!-- my github stats text end -->
+
+<br/>
+
+<div align="center">
+    <!-- github streak start -->
+    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=devjasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=0EBBB4&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0EBBB4&sideLabels=0EBBB4&excludeDaysLabel=0EBBB4&dates=FFFFFF" alt="current streak stats" />
+    <!-- github streak end -->
+    <!-- github stats start -->
+    <img loading="lazy" width=396 src="https://github-readme-stats-mnex.vercel.app/api?username=devjasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=0EBBB4&currStreakLabel=0EBBB4&sideLabels=0EBBB4&icon_color=0EBBB4&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
+    <!-- github stats end -->
 </div>
 
 <div align="center">
-  ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=devjasim&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+    <!-- github most used languages start -->
+    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=devjasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0EBBB4&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
+    <!-- github most used languages end -->
+    <!-- wakatime weekly activity start -->
+    <!-- <a href="https://wakatime.com/@devjasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
+        <img loading="lazy" src="https://github-readme-stats-devjasim.vercel.app/api/wakatime?username=devjasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=0EBBB4&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+    </a> -->
+    <!-- wakatime weekly activity end -->
 </div>
 
-### ✍️ Random Dev Quote
+<!-- github readme activity graph start -->
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=devjasim&bg_color=0d1117&color=00b8b5&line=0EBBB4&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
+<!-- github readme activity graph end -->
 
-### 🔝 Top Contributed Repo
+<!-- github trophy start -->
 <div align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=devjasim&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=devjasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
+<!-- github trophy end -->
 
-### 😂 Random Dev Meme
-<div align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!-- feel free to contact me text start -->
+<div align="center"> 
+    <img loading="lazy" width="21" src="./media/icons/link.png" alt="postbox svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
+<!-- feel free to contact me text end -->
 
----
-[![](https://visitcount.itsvg.in/api?id=devjasim&icon=0&color=4)](https://visitcount.itsvg.in)
+<br/>
+
+<!-- social media links start -->
+<table align="center">
+    <thead align="center">
+        <tr>
+            <th>
+                <a href="https://www.linkedin.com/in/devjasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/devjasim">
+                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.github.com/devjasim" target="_blank" rel="noopener noreferrer" title="github.com/devjasim">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://stackoverflow.com/users/20348607/devjasim" target="_blank" rel="noopener noreferrer" title="stackoverflow.com/users/20348607/devjasim">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://jasim.vercel.app" target="_blank" rel="noopener noreferrer" title="jasim.vercel.app">
+                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="mailto:jasimfbd@gmail.com" target="_blank" rel="noopener noreferrer" title="jasimfbd@gmail.com">
+                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.facebook.com/devjasim/" target="_blank" rel="noopener noreferrer" title="facebook.com/devjasim">
+                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/0EBBB4" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://twitter.com/dev_Jasim" target="_blank" rel="noopener noreferrer" title="twitter.com/dev_jasim">
+                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/0EBBB4" width="35px">
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
+<!-- social media links end -->
+<!-- connect with me end -->
+
+<br/>
+<br/>
+<br/>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
