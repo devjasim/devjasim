@@ -76,7 +76,7 @@
 </p>
 
 <p>
-    <a href="#" target="_blank" rel="noopener noreferrer">My expertise</a> lies in delivering complex projects, leveraging technology for business transformation, and creating <a href="#" target="_blank" rel="noopener noreferrer">innovative applications</a>. I am dedicated to bridging research and engineering to produce impactful digital solutions.
+    My expertise lies in delivering complex projects, leveraging technology for business transformation, and creating eye-catching web solutions. I am dedicated to bridging research and engineering to produce impactful digital solutions.
 </p>
 <!-- my summary end -->
 
