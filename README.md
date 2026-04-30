@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm glad you landed on my profile</h1>
-<h3 align="center">I'm Jasim Uddin — a passionate Frontend Engineer crafting scalable, user-centered web applications</h3>
+<h3 align="center">I'm Jasim Uddin — a passionate Software Engineer crafting scalable, user-centered web applications</h3>
 
 ---
 
