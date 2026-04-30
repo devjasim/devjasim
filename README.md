@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-I’m a **Senior Frontend Engineer** with 5+ years of experience designing and building high-performance web platforms.  
+I’m a **Senior Software Engineer** with 6+ years of experience designing and building high-performance web platforms.  
 I specialize in **React, Next.js, TypeScript, and Node.js**, with a strong focus on scalability, accessibility, and user experience.
 
 Currently, I’m leading the frontend architecture of a **healthcare management platform** built with a micro-frontend monorepo setup — powering modules for nursing, medication, pharmacy, and HR workflows.
